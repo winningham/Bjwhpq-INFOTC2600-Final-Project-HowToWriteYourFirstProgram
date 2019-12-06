@@ -1,5 +1,4 @@
-#How to Get Started In Programing and Writing your first Program
-Getting Started.
+# How to Get Started In Programing and Writing your first Program
 
 - choosing a language
   - What is a programming language?
@@ -15,6 +14,6 @@ Getting Started.
         1. tutorials
  - Finish!
  
-  
+ 
  
   
