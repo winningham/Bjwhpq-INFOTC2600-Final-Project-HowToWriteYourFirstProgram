@@ -12,7 +12,7 @@ Getting Started.
         3. compilor
      - Trouble Shooting
      - How to get help
-      1. tutorials
+        1. tutorials
  - Finish!
  
   
