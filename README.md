@@ -11,6 +11,7 @@
  	- [Using the executable](#using-the-executable)
 - [How to learn the rest](#how-to-learn-the-rest)
  
+Summarry: The purpose of this tutorial is to help people who are looking to learn a programming language but are having difficulty getting started. The intended audience is for people who already have basic knowledge of how to use a computer but have little or no experience writing their own programs.
  
 Learning to program is a commonly sought after and highly valued skill in today’s world, but you may wonder how one goes about *learning* this skill? This guide wont teach you specifically how to implement the exact type of program you may want, but it is intended to help guide you on your search for that knowledge. To know what it is you don’t know is always a good starting point.
 
