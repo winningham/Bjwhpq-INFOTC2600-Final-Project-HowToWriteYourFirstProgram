@@ -8,7 +8,7 @@
 	- Integrated Developer Environments
  	- "Hello world!"
  	- Using the executable
-	- How to learn the rest
+- How to learn the rest
  
  
 Learning to program is a commonly sought after and highly valued skill in today’s world, but you may wonder how one goes about *learning* this skill? This guide wont teach you specifically how to implement the exact type of program you may want, but it is intended to help guide you on your search for that knowledge. To know what it is you don’t know is always a good starting point.
