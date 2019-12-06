@@ -1,6 +1,6 @@
 # How to Get Started In Programing and Writing your first Program
 
-- Programing levels
+- [Programing levels](#programing-levels)
   - high level languages
   - low level languages 
   - Which level of programing is better?
@@ -15,9 +15,9 @@ Learning to program is a commonly sought after and highly valued skill in today�
 
 The first thing you need to do before you start writing programs is to choose the language you want to learn. This can be difficult as the number of programming languages that people use is constantly growing and evolving, but the same fundamental concepts apply to how you go about learning them. First you should ask yourself what kind of programs you want to write? Depending on what you want to make you may find high level or low level programming to be more useful. 
 
-<programing levels>
+<a name="programing levels"></a>
 	
-![programming levels](https://www.guru99.com/images/2013/07/071713_1135_Introductio4.png)
+![programing levels](https://www.guru99.com/images/2013/07/071713_1135_Introductio4.png)
 
 (Image from "Perl Tutorials for Beginners" at guru99.com)
 
@@ -39,10 +39,12 @@ Once you have chosen a language that suites your needs it is time to try and wri
 
 ![image from Best IDE For Programing Top Twelve at TechWorm.net](https://techworm.net/programming/wp-content/uploads/2018/07/IDE.png)
 
-(image from "Best IDE For Programing (top 12)" at TechWorm.net)
+(image of popular IDE icons from "Best IDE For Programing (top 12)" at TechWorm.net)
 	
-IDEs are special programs that are designed to make writing code for certain languages easier. This includes highlighting keywords and automatically detecting variable names and classes in order to autofill them when you are typing. IDEs will also be able to highlight errors in your code that would have made it impossible for your compiler to translate it. IDEs often come bundled with compilers, but these are often buried within large menus and project management systems. This makes setting up certain IDEs difficult, so it is recommended that you search for tutorials that show you how to access and run the compiler for your particular IDE. 
-	<Hello World!>
+
+IDEs are special programs that are designed to make writing code for certain languages easier. This includes highlighting keywords and automatically detecting variable names and classes in order to autofill them when you are typing. IDEs will also be able to highlight errors in your code that would have made it impossible for your compiler to translate it. IDEs often come bundled with compilers, but these are often buried within large menus and project management systems. This makes setting up certain IDEs difficult, so it is recommended that you search for tutorials that show you how to access and run the compiler for your particular IDE.
+
+<Hello World!>
 For the first time writing a program it’s a very good idea to write a simple one in order to learn the basics of how to use your compiler and to see if it is working. These programs are often titled “Hello World” programs and typically implement a simple print statement that outputs text to a console or command line. Programming languages all have a different format for doing this, so you should look for tutorials or documentation for the one you are using. Print statements are commonly used for debugging, which is something you will need to do a lot when you are starting out. Some IDEs also come with a hello world template, which will set this program up for you. You can use this feature to get started but it wont necessarily teach you how to set up programs on your own. I recommend playing around with these and seeing what the IDE’s error messages say when you try changing things. 
 
 <using the executable>
