@@ -1,5 +1,5 @@
 # How to Get Started In Programing and Writing your first Program
-	##by Benjamin Winningham
+## by Benjamin Winningham
 
 - [Programing levels](#programing-levels)
   - [high level languages](#high-level-languages)
